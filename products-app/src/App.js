@@ -21,10 +21,10 @@ function App() {
         }}
       >
         <Card.Body>
-          <Name />
           <Image />
-          <Price />
+          <Name />
           <Description />
+          <Price />
         </Card.Body>
       </Card>
 

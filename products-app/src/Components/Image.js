@@ -6,7 +6,7 @@ function Image() {
     <img
       src={products.imageUrl}
       alt={products.name}
-      style={{ width: "100%", height: "400px", marginBottom: "15px" }}
+      style={{ width: "100%", height: "auto", marginBottom: "15px" }}
     />
   );
 }
